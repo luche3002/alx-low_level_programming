@@ -1,0 +1,1 @@
+This repository contains all projects that I have worked on while learning C.
