@@ -1,5 +1,6 @@
 #include <unistd.h>
 #include <stdio.h>
+#include "0-main.c"
 
 /**
  * main - Entry point
