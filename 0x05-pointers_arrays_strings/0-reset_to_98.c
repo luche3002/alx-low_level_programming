@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * return_to_98 - Returns 402 to 98 using pointer
+ * return_to_98 - Resets 402 to 98 using pointer
+ * n: the integer to be reset
  *
- * Return: Always 0 (Success)
+ * Return: 98 as value of n
  *
  */
 
