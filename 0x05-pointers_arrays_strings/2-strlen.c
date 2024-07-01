@@ -2,7 +2,6 @@
 
 /**
  * _strlen - Prints length of string
- * @x: Length of the string
  * @s: Value of the string
  *
  * Return: The length of the string
