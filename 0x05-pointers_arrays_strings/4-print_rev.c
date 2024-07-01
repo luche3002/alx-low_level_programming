@@ -3,7 +3,7 @@
 /**
  * print_rev - prints string in reverse
  * @l: length of string
- * @*y: pointer for s
+ * @s: string to be printed 
  *
  * Return: String in reverse
  */
