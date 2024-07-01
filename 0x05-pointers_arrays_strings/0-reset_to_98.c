@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - Returns 402 to 98 using pointer
+ * return_to_98 - Returns 402 to 98 using pointer
  *
  * Return: Always 0 (Success)
  *
