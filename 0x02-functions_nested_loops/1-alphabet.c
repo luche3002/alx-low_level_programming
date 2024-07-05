@@ -1,10 +1,18 @@
-int _putchar(char c);
+ #include "main.h"
+
+/**
+ * print_alphabet - prints alhpabet in lowercase
+ *
+ * Return: alphabet in lowercase
+ */
 
 void print_alphabet(void)
 {
-	char alphabet[] = "abcdefghijklmnopqrstuvwxyz\n";
-	for (int i = 0, i =< 26; i++)
+	char ch;
+
+	for (ch = 'a'; ch <= 'z'; ch++)
 	{
-		_putchar(alphabet[i]);
+		_putchar(ch);
 	}
+	_putchar('\n');
 }
