@@ -2,8 +2,7 @@
 
 /**
  * print_numbers - prints numbers from 0 to 9
- * @x: characters to he printed
- *
+ * 
  * Return: numbers from 0 to 9
  */
 
