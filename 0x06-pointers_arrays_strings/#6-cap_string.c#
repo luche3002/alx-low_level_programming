@@ -1,0 +1,13 @@
+#include "main.h"
+
+/**
+ * cap_string - makes all words of a string capital
+ * @str: string to be changed
+ *
+ * Return: pointer of the modified string
+ */
+
+char *cap_string(char *str)
+{
+	int x = 0;
+	char sep[] = " \t\n
