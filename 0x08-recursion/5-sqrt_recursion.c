@@ -19,7 +19,7 @@ int sqrt_recursion02(int n, int x)
 	{
 		return (-1);
 	}
-	return sqrt_recursion02(n, x + 1);
+	return (sqrt_recursion02(n, x + 1));
 }
 
 /**
@@ -39,5 +39,5 @@ int _sqrt_recursion(int n)
 	{
 		return (n);
 	}
-	return sqrt_recursion02(n, 1);
+	return (sqrt_recursion02(n, 1));
 }
